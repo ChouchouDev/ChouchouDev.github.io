@@ -1,3 +1,28 @@
+### Data Science
+
+#### Machine Learning basics
+
+- [item](./items/item.md)
+
+#### Deep learning
+
+#### NLP
+
+#### Computer Vision
+
+#### Anomaly Detection
+
+### Data Engineering
+
+- item
+
+### Software Engineering
+
+- Item
+
+### Cloud
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WeilanCC/WeilanCC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
