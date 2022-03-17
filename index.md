@@ -2,7 +2,7 @@
 
 #### Machine Learning basics
 
-- [item](./items/item.md)
+- [item](items/item1.md)
 
 #### Deep learning
 
